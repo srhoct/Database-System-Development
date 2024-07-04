@@ -54,11 +54,18 @@ Through this project, we aim to create a robust database system that efficiently
 
 ### 4. 	Syntax DDL
 
+
 ### 5.	Dummy dataset
+
+Output:
 
 ### 6.	Transactional Query
 
+Output:
+
 ### 7.	Analytical Query
+
+Output:
 
 ### 8.	Tools
 - Google Colab
