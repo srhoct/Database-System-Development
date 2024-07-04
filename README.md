@@ -59,3 +59,7 @@ Through this project, we aim to create a robust database system that efficiently
 ### 6.	Transactional Query
 
 ### 7.	Analytical Query
+
+### 8.	Tools
+- Google Colab
+- PostgreSQL 16.3
